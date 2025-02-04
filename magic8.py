@@ -2,7 +2,7 @@ name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
 
-import random
+import random (2)
 
 random_number = random.randint(1, 9)
 # print(random_number)
